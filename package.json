@@ -1,0 +1,25 @@
+{
+  "name": "github-image-upload",
+  "version": "0.1.0",
+  "description": "Generate SVG diagram and upload to GitHub, return the raw image URL",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "github",
+    "upload",
+    "image",
+    "diagram",
+    "svg"
+  ],
+  "author": "dongdada29",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dongdada29/clawdbot-playground/issues"
+  },
+  "homepage": "https://github.com/dongdada29/clawdbot-playground#readme"
+}
